@@ -1,0 +1,125 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.maindiv {
+  width: 1024px;
+  margin: 20px auto;
+  background: #f5f5f5;
+}
+
+.logo {
+  width: 300px;
+  background: #3fc3a2;
+  padding-bottom: 2px;
+  padding-top: 1.5px;
+}
+
+.menu {
+  float: right;
+  background: #23789e;
+  width: 724px;
+  clear: both;
+  -webkit-transform: translateY(-39px);
+          transform: translateY(-39px);
+}
+
+.menu li {
+  display: inline-block;
+  padding: 10.5px;
+  -webkit-transform: translate(383px);
+          transform: translate(383px);
+}
+
+.menu a {
+  color: black;
+  text-decoration: none;
+}
+
+.baner {
+  text-align: center;
+  background-image: url("https://www.lboro.ac.uk/media/media/study/pg/2019/images/locations/loughborough/medialinks/CRL7924.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom center;
+  max-width: 100%;
+  padding: 232px;
+}
+
+.baner h2 {
+  color: brown;
+  padding-top: 30px;
+  padding-bottom: 10px;
+  font-size: 40px;
+}
+
+.baner p {
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 30px;
+  margin-bottom: -173px;
+}
+
+.container {
+  margin-top: 40px;
+  clear: both;
+}
+
+.container .divin {
+  width: 574px;
+  float: right;
+}
+
+.container .divin h2 {
+  background: #dddddd;
+  padding-left: 160px;
+}
+
+.container .divin h3 {
+  color: #26a69a;
+  padding-left: 160px;
+}
+
+.container .divin p, .container .divin h4, .container .divin ol {
+  padding-left: 160px;
+}
+
+.container .sr {
+  float: right;
+  border: 1px solid black;
+  background: #dddddd;
+  padding: 10px;
+  -webkit-transform: translate(-434px, -2px);
+          transform: translate(-434px, -2px);
+}
+
+.container .bd {
+  background: #dddddd;
+  float: left;
+  text-align: center;
+  width: 290px;
+  margin-top: 59px;
+  padding: 15px;
+  margin-left: 5px;
+  margin-left: 5px;
+}
+
+.container .div2 {
+  margin-left: 24px;
+}
+
+.container .div3 {
+  margin-top: 10px;
+  margin-left: 24px;
+}
+
+.foter {
+  border-top: 2px solid black;
+  background: #ada391;
+  margin-top: 193px;
+  text-align: center;
+  padding-bottom: 10px;
+}
+/*# sourceMappingURL=style.css.map */
